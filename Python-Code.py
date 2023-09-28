@@ -2,7 +2,7 @@ import openai
 import re
 
 # set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "..."
 
 # define function to generate questions
 def generate_questions(paragraph, num_questions=3):
